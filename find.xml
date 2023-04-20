@@ -1,0 +1,14 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Only changes uncommitted to VCS in file …\lib\state\setting\device_setting_notifier.dart [flutter_base_project]" />
+    <option name="defaultScopeName" value="Only changes uncommitted to VCS in file …\lib\state\setting\device_setting_notifier.dart [flutter_base_project]" />
+    <option name="SEARCH_SCOPE" value="Only changes uncommitted to VCS in file …\lib\state\setting\device_setting_notifier.dart [flutter_base_project]" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.dart</mask>
+  </component>
+</application>
