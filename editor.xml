@@ -18,7 +18,7 @@
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".problems" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
         <Settings>
