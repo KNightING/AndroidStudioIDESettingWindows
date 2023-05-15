@@ -1,0 +1,5 @@
+<application>
+  <component name="pl.pszklarska.pubversionchecker.settings.AppSettingsState">
+    <option name="includePreRelease" value="true" />
+  </component>
+</application>
