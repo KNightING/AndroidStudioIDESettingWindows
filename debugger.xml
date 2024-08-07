@@ -86,6 +86,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="kotlinx.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="androidx.compose.runtime.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -94,5 +99,12 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>

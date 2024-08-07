@@ -1,73 +1,17 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AutoImportSettings">
-        <option name="autoReloadType" value="SELECTIVE" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-              <State>
-                <id>Android</id>
-              </State>
-              <State>
-                <id>CorrectnessLintAndroid</id>
-              </State>
-              <State>
-                <id>EditorConfig</id>
-              </State>
-              <State>
-                <id>Gradle</id>
-              </State>
-              <State>
-                <id>Groovy</id>
-              </State>
-              <State>
-                <id>InteroperabilityLintAndroid</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Kotlin</id>
-              </State>
-              <State>
-                <id>LintAndroid</id>
-              </State>
-              <State>
-                <id>MessagesCorrectnessLintAndroid</id>
-              </State>
-              <State>
-                <id>Numeric issuesJava</id>
-              </State>
-              <State>
-                <id>PerformanceLintAndroid</id>
-              </State>
-              <State>
-                <id>Probable bugsGradle</id>
-              </State>
-              <State>
-                <id>Style issuesKotlin</id>
-              </State>
-              <State>
-                <id>StyleGroovy</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "live.edit.configurable"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="270" y="65" key="SettingsEditor" timestamp="1723009645891">
+          <screen x="0" y="0" width="1536" height="912" />
+        </state>
+        <state x="270" y="65" key="SettingsEditor/0.0.1536.912/0.-1080.1920.1032" timestamp="1723009645891" />
+      </component>
     </defaultProject>
   </component>
 </application>
